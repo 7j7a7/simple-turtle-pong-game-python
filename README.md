@@ -1,1 +1,1 @@
-followed the 'Python Game Tutorial: Pong' on yt 
+followed the 'Python Game Tutorial: Pong' on yt to understand how turtle works
